@@ -25,7 +25,7 @@ the solution was to use: https://openweathermap.org/api
 ![image](https://user-images.githubusercontent.com/31891276/129647869-841a0d5c-322f-4e0b-988c-93edea39687a.png)
 
 
-# PROYECT TEST
+# Proyect Test
 
 ![image](https://user-images.githubusercontent.com/31891276/129647953-73bad2db-a11f-46a3-abde-200b8bf9348b.png)
 
@@ -56,4 +56,7 @@ Api method:
 
 
 ![image](https://user-images.githubusercontent.com/31891276/129648124-84d5faf8-3b05-4a2e-b1f7-0da444351fb4.png)
+
+
+## Commands To Deploy
 
