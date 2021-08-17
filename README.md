@@ -35,6 +35,21 @@ the solution was to use: https://openweathermap.org/api
 
 ![image](https://user-images.githubusercontent.com/31891276/129648020-9c484b87-2cb1-431e-9dda-75925df78290.png)
 
+Api method:
+
+        public function index(Request $request)
+            {
+                $ciudad = $request->route('ciudad');
+                $response = Http::get(env('API_URL'), [
+                    'q' => $ciudad,
+                    'appid' => env('API_ID'),
+                ]);
+                $data = $response->json();
+               // dd($data);
+                return view('reporte', compact('data'));
+
+            }
+
 ![image](https://user-images.githubusercontent.com/31891276/129648072-3ea287e5-2006-48ed-ba51-8d546d2c2cc3.png)
 
 ![image](https://user-images.githubusercontent.com/31891276/129648108-f1efd218-99d8-42ee-bfaa-19f7b341483a.png)
