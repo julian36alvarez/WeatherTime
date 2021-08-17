@@ -13,3 +13,15 @@
 
 ## About This Proyect
 
+This project was made in Laravel 8, the suggested api was not used since it does not work
+
+![image](https://user-images.githubusercontent.com/31891276/129647791-d4522400-78fb-477e-b085-8e4c6258b98f.png)
+
+On approximately June 1, 2021, the free Yahoo Weather API will be retired and will cease to function. Unfortunately, we will not be offering a replacement API, and there will be no paid alternative.
+
+the solution was to use: https://openweathermap.org/api 
+
+
+![image](https://user-images.githubusercontent.com/31891276/129647869-841a0d5c-322f-4e0b-988c-93edea39687a.png)
+
+
