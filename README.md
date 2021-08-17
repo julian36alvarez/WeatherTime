@@ -35,3 +35,10 @@ the solution was to use: https://openweathermap.org/api
 
 ![image](https://user-images.githubusercontent.com/31891276/129648020-9c484b87-2cb1-431e-9dda-75925df78290.png)
 
+![image](https://user-images.githubusercontent.com/31891276/129648072-3ea287e5-2006-48ed-ba51-8d546d2c2cc3.png)
+
+![image](https://user-images.githubusercontent.com/31891276/129648108-f1efd218-99d8-42ee-bfaa-19f7b341483a.png)
+
+
+![image](https://user-images.githubusercontent.com/31891276/129648124-84d5faf8-3b05-4a2e-b1f7-0da444351fb4.png)
+
