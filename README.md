@@ -57,7 +57,7 @@ Api method:
 
 ![image](https://user-images.githubusercontent.com/31891276/129648124-84d5faf8-3b05-4a2e-b1f7-0da444351fb4.png)
 
-![public/Animation.gif](src/entidades_debiles.png)
+![public/Animation.gif](public/Animation.gif)
 
 ## Commands To Deploy
 
